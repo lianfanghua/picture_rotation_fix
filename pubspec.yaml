@@ -1,8 +1,8 @@
 name: picture_rotation_fix
 description: Fix picture rotation by exif metadata.
 version: 0.0.1
-author: fanghua.lian@wakeai.cn
-homepage: https://www.wakeai.cn
+author: Fanghua Lian <fabrice_lian@wakeai.cn>
+homepage: https://github.com/lianfanghua/picture_rotation_fix
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
